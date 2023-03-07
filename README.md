@@ -2,8 +2,7 @@
 # Victor A. Duarte
 ## _Programador Web FullStack Java_
 
- Argentino de 32 años con conocimientos en diversos lenguajes como:🤔
-1. java
+ Argentino de 32 años listo para aprender nuevos conocimientos y nuevas habilidades blandas con conocimientos en diversos lenguajes como:🤔
 1. HTML
 2. 1.CSS
 3.  React
