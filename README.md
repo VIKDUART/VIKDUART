@@ -1,16 +1,26 @@
-### Hi there 👋
+#Viktor
+# Victor A. Duarte
+## _Programador Web FullStack Java_
 
-<!--
-**VIKDUART/VIKDUART** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ Argentino de 32 años con conocimientos en diversos lenguajes como:🤔
+1. java
+1. HTML
+2. 1.CSS
+3.  React
+4.  Spring Boot
+5. Mysql
+6. Git Hub
 
-Here are some ideas to get you started:
+| Encabezado de columna 1 | Encabezado de columna 2 |
+|------------------------|------------------------|
+| #                     |  Ecabezado nivel 1       |        
+|##                     |   Ecabezados nivel 2     |
+|[]                     |  crear un enlace         |       
+|**                     |  texto en **Negrita**     |      
+|_                      | texto en _Cursiva_        |
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# ALIAS
+| NOMBRE DEL ALIAS | FUNCIONALIDAD |
+|------------------|---------------|
+| alias cl="clear" | Limpiar        |
+|alias rm="trash| Evitar eliminar permanentemente los archivos |
