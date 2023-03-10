@@ -32,6 +32,8 @@ ONOCIMIENTOS:
 • Conocimientos en Hardware y software informático.
 • Conocimientos en panadería.
 
+[Mi perfil de git:] https://github.com/VIKDUART
+
 | Encabezado de columna 1 | Encabezado de columna 2 |
 |------------------------|------------------------|
 | #                     |  Ecabezado nivel 1       |        
