@@ -15,10 +15,10 @@ REDES SOCIALES:
 - [Linkedin](https://www.linkedin.com/in/victor-duarte-04a1b1261)
 
 HABILIDADES:
-• Iniciativa
-• Creatividad 
-• Capacidad de trabajar en equipo 
-• Capacidad de actualizar los conocimientos
+* Iniciativa
+* Creatividad 
+* Capacidad de trabajar en equipo 
+* Capacidad de actualizar los conocimientos
  
 🖥 Conocimientos en diversos lenguajes como:
 1. HTML
@@ -29,8 +29,11 @@ HABILIDADES:
 6. Git Hub
 
 Otros:
+
 • Diseño Grafico (Manejo de Computadoras y diverso software)
-• Manejo de Redes Sociales y Marketing a través de redes sociales
+
+• Manejo de Redes Sociales y Marketing a través de redes sociales (Comunity Manager)
+
 • Conocimientos en Hardware y software informático.
 
 Mi perfil de git [Aqui](https://github.com/VIKDUART)
