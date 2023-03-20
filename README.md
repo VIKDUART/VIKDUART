@@ -6,7 +6,7 @@
 
  Argentino de 32 años listo para aprender nuevos conocimientos y nuevas habilidades blandas 
  
-REDES SOCIALES
+REDES SOCIALES:
 
  - [Facebook.com](https://www.facebook.com/viktor.duarte.5?mibextid=ZbWKwL)
 
