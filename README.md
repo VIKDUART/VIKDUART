@@ -1,9 +1,20 @@
-#Viktor
+# ¡Hi! I'm Victor 🖐😁
+![banner 4](https://user-images.githubusercontent.com/105324390/226381424-0570bf8d-1cf6-43ad-889e-55bb7730de9d.jpg)
+
+
 # Victor A. Duarte
 ## _Programador Web FullStack Java_
 
  Argentino de 32 años listo para aprender nuevos conocimientos y nuevas habilidades blandas 
  
+REDES SOCIALES
+
+ - [facebook.com](https://www.facebook.com/viktor.duarte.5?mibextid=ZbWKwL)
+
+- [INSTAGRAM](https://instagram.com/viktorduarte?igshid=ZDdkNTZiNTM=)
+
+- [LINKDIN](https://www.linkedin.com/in/victor-duarte-04a1b1261)
+
  • Mantengo un perfil de respeto teniendo en cuenta y presente la
 cadena de mando.
 • Compañerismo. Proactivo dispuesto a la implementación de nuevos 
