@@ -38,7 +38,7 @@ Otros:
 
 Mi perfil de git [Aqui](https://github.com/VIKDUART)
 
-| Encabezado de columna 1 | Encabezado de columna 2 |
+| Simbolo | Funcion |
 |------------------------|------------------------|
 | #                     |  Ecabezado nivel 1       |        
 |##                     |   Ecabezados nivel 2     |
